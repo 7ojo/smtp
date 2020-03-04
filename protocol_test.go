@@ -6,7 +6,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/mailhog/data"
+	"github.com/7ojo/data"
 	. "github.com/smartystreets/goconvey/convey"
 )
 
